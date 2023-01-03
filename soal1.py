@@ -1,0 +1,8 @@
+user = input ("masukkan user nama anda:")
+print("1. Tambah Anggota Justice League")
+print("2. Hapus Anggota Justice League")
+print("3. Tampilkan Anggota Justice League")
+print("4. Exit")
+hasil = input("masukkan pilihan anda:")
+nama = input("Nama anggota baru:")
+print("nama", nama, "berhasil ditambahkan")
